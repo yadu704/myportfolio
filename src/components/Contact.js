@@ -229,7 +229,7 @@ export default function Contact({ onPhone, onEmail, onLinkedIn }) {
                         <Button 
                           variant="text" 
                           sx={{ p: 0, minWidth: 'auto', textTransform: 'none' }}
-                          onClick={() => window.open('https://wa.me/919986919988', '_blank')}
+                          onClick={() => window.open('https://wa.me/9743068345', '_blank')}
                         >
                           click here
                         </Button>
@@ -247,14 +247,14 @@ export default function Contact({ onPhone, onEmail, onLinkedIn }) {
                     mt: 2
                   }}>
                     <iframe
-    title="Location Map"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3939.963217799637!2d76.59304947480313!3d12.183837987012073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7e8e2e2e2e2e%3A0x8e12fe4a4idnvx26f!2sDoddakanya%2C%20Karnataka%20571124!5e0!3m2!1sen!2sin!4v1693400000000!5m2!1sen!2sin"
-    width="100%"
-    height="300"
-    style={{ border: 0, borderRadius: 8 }}
-    allowFullScreen=""
-    loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"
+                      title="Second Location Map"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3939.963217799637!2d76.59304947480313!3d12.183837987012073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7e8e2e2e2e2e%3A0x8e12fe4a4idnvx26f!2soxasdEFUR7PULgVP7!5e0!3m2!1sen!2sin!4v1693400000000!5m2!1sen!2sin"
+                      width="100%"
+                      height="300"
+                      style={{ border: 0, borderRadius: 8, marginTop: 16 }}
+                      allowFullScreen=""
+                      loading="lazy"
+                      referrerPolicy="no-referrer-when-downgrade"
                     />
                   </Box>
                 </Stack>
