@@ -39,8 +39,8 @@ export default function Drawer({
 
   ],
   socials = [
-    { id: 'github', icon: <GitHubIcon />, href: 'https://github.com/Nischal123rcb' },
-    { id: 'linkedin', icon: <LinkedInIcon />, href: 'https://www.linkedin.com/in/nischal-k-122899374' },
+    { id: 'github', icon: <GitHubIcon />, href: 'https://github.com/yadu704/myportfolio' },
+    { id: 'linkedin', icon: <LinkedInIcon />, href: '' },
     { id: 'email', icon: <MailOutlineIcon />, href: 'mailto:yadunandan330@gmail.com' },
   ],
   palette = {

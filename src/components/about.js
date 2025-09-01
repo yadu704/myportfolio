@@ -18,9 +18,8 @@ Driven by a desire to create meaningful digital experiences, I'm eager to join d
   photoUrl = '',
   skills = [
     'React',
-    'JavaScript',
-    'HTML/CSS',
-    'Material UI',
+    'HTML',
+    'Graphic designer',
     'GitHub',
     'Problem Solving',
     'UI/UX Design',
