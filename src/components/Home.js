@@ -18,10 +18,11 @@ export default function Home() {
   
   // Background images for slideshow
   const backgroundImages = [
-    '/images (2).jpg',
-    '/images.jpg',
-    '/pexels-markusspiske-1089438.jpg'
-  ];
+  '/bg1.jpg',
+  '/images (2).jpg',
+  '/images.jpg',
+  '/pexels-markusspiske-1089438.jpg'
+];
   
   // Role switcher effect
   useEffect(() => {
